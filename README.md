@@ -1,4 +1,4 @@
-
+[![Build status](https://ci.appveyor.com/api/projects/status/eqlvr1st56irhen5?svg=true)](https://ci.appveyor.com/project/KateGaw/ra-composition-cards)
 
 https://kategaw.github.io/RA_composition_cards/
 
